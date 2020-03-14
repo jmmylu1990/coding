@@ -5,9 +5,6 @@ public abstract class Animal {
 	//
 	//
 	//
-<<<<<<< HEAD
-	//master
-=======
-	//tibame
->>>>>>> tibame
+	//master new
+
 }
